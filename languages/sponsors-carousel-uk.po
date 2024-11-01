@@ -1,0 +1,204 @@
+# Copyright (C) 2010 Sponsors Carousel
+# This file is distributed under the same license as the Sponsors Carousel package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sponsors Carousel 3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sponsors-carousel\n"
+"POT-Creation-Date: 2019-02-09 12:48+0200\n"
+"PO-Revision-Date: 2019-02-09 12:49+0200\n"
+"Last-Translator: Sergey Panasenko <sergey.panasenko@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: sponsors-carousel.php\n"
+"X-Poedit-SearchPath-1: SponsorsCarouselClass.php\n"
+
+#: class-sponsors-carousel.php:126
+msgid "Add new"
+msgstr "Додати нову"
+
+#: class-sponsors-carousel.php:127
+msgid "Copy current"
+msgstr "Копіювати поточну"
+
+#: class-sponsors-carousel.php:139
+msgid "Shortcode:"
+msgstr "Короткий код:"
+
+#: class-sponsors-carousel.php:142
+#, php-format
+msgid "Also you can use %1$s for show this carousel."
+msgstr "Також ви можете використовувати %1$s для показу цієї каруселі."
+
+#: class-sponsors-carousel.php:146
+msgid "Speed:"
+msgstr "Швидкість:"
+
+#: class-sponsors-carousel.php:149
+msgid "The speed of the animation. 0 is instant, 10000 is very slow."
+msgstr "Швидкість анімації. 0 миттєвий, 10000 дуже повільний."
+
+#: class-sponsors-carousel.php:153
+msgid "Scroll Amount:"
+msgstr "Кількість прокрутки:"
+
+#: class-sponsors-carousel.php:156
+msgid "How many images should be scrolled in one step"
+msgstr "Скількі зображень буде прокручено за один крок."
+
+#: class-sponsors-carousel.php:160
+msgid "Auto scroll:"
+msgstr "Автоматична прокрутка:"
+
+#: class-sponsors-carousel.php:163
+msgid "Off"
+msgstr "Вимкнено"
+
+#: class-sponsors-carousel.php:164
+msgid "Continuous"
+msgstr "Бесперервно"
+
+#: class-sponsors-carousel.php:165
+msgid "Fast"
+msgstr "Швидко"
+
+#: class-sponsors-carousel.php:166
+msgid "Medium"
+msgstr "Середньої швидкості"
+
+#: class-sponsors-carousel.php:167
+msgid "Slow"
+msgstr "Повільна"
+
+#: class-sponsors-carousel.php:172
+msgid "WP image size:"
+msgstr "Розмір зображення WP:"
+
+#: class-sponsors-carousel.php:179
+#, php-format
+msgid ""
+"To get more image sizes you can install special plugins like <a href=\"%1$s"
+"\">this</a> or <a href=\"%2$s\">this</a>."
+msgstr ""
+"Щоб отримати більше розмірів зображень, можна встановити спеціальні плагіни, "
+"як  <a href=\"%1$s\">цей</a> або <a href=\"%2$s\">цей</a>"
+
+#: class-sponsors-carousel.php:180
+msgid ""
+"Important! Images will be resized on upload, so after adding new size please "
+"upload files again or use regenerate plugin."
+msgstr ""
+"Важливо! Зображення змінюються під час завантаження, тому після додавання "
+"нового розміру завантажте файли знову або скористайтеся плагіном регенерації."
+
+#: class-sponsors-carousel.php:184
+msgid "Width of Image:"
+msgstr "Ширина зображення:"
+
+#: class-sponsors-carousel.php:190
+msgid "Height of Image:"
+msgstr "Висота зображення:"
+
+#: class-sponsors-carousel.php:196
+msgid "Width of Carousel:"
+msgstr "Ширина каруселі:"
+
+#: class-sponsors-carousel.php:202
+msgid "Distance between images:"
+msgstr "Відстань між зображеннями:"
+
+#: class-sponsors-carousel.php:208
+msgid "Show titles for images:"
+msgstr "Показати назви для зображень:"
+
+#: class-sponsors-carousel.php:211 class-sponsors-carousel.php:220
+msgid "No"
+msgstr "Ні"
+
+#: class-sponsors-carousel.php:212 class-sponsors-carousel.php:221
+msgid "Yes"
+msgstr "Так"
+
+#: class-sponsors-carousel.php:217
+msgid "Show controls:"
+msgstr "Показати елементи управління:"
+
+#: class-sponsors-carousel.php:226
+msgid "Open in new window:"
+msgstr "Відкрити в новому вікні:"
+
+#: class-sponsors-carousel.php:229
+msgid "No, open in same window"
+msgstr "Ні, у тому ж вікні"
+
+#: class-sponsors-carousel.php:230
+msgid "Yes, open in new window"
+msgstr "Так, у новому вікні"
+
+#: class-sponsors-carousel.php:235
+msgid "Default link:"
+msgstr "Посилання за замовченням:"
+
+#: class-sponsors-carousel.php:245
+msgid "Add images"
+msgstr "Додати зображення"
+
+#: class-sponsors-carousel.php:246
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: class-sponsors-carousel.php:249
+msgid "Delete carousel"
+msgstr "Видалити карусель"
+
+#: class-sponsors-carousel.php:249
+msgid "Are you sure?"
+msgstr "Ви впевнені?"
+
+#: class-sponsors-carousel.php:387
+msgid "Choose Images"
+msgstr "Обрати зображення"
+
+#: class-sponsors-carousel.php:388
+msgid "Insert in Carousel"
+msgstr "Додати у карусель"
+
+#: class-sponsors-carousel.php:389
+msgid "Custom link:"
+msgstr "Окреме посилання:"
+
+#: sponsors-carousel.php:33
+msgid "Sponsors Carousel"
+msgstr "Карусель Спонсорів"
+
+#: sponsors-carousel.php:79
+msgid "Settings"
+msgstr "Налаштування"
+
+#: sponsors-carousel.php:103
+msgid "Options updated"
+msgstr "Параметри оновлені"
+
+#: sponsors-carousel.php:113
+#, php-format
+msgid "%s Settings"
+msgstr " %s Налаштування"
+
+#: sponsors-carousel.php:129
+msgid "main"
+msgstr "головна"
+
+#: sponsors-carousel.php:155
+msgid "ID"
+msgstr "ID"
+
+#: sponsors-carousel.php:167
+msgid "Please add images on <b>Sponsors carousel</b> plugin page"
+msgstr "Додайте зображення на сторінці плагіну <b>Sponsors carousel</b>"

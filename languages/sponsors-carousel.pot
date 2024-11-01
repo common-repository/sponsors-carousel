@@ -1,0 +1,194 @@
+# Copyright (C) 2010 Sponsors Carousel
+# This file is distributed under the same license as the Sponsors Carousel package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sponsors Carousel 3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sponsors-carousel\n"
+"POT-Creation-Date: 2019-02-09 12:47+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: sponsors-carousel.php\n"
+"X-Poedit-SearchPath-1: class-sponsors-carousel.php\n"
+
+#: class-sponsors-carousel.php:126
+msgid "Add new"
+msgstr ""
+
+#: class-sponsors-carousel.php:127
+msgid "Copy current"
+msgstr ""
+
+#: class-sponsors-carousel.php:139
+msgid "Shortcode:"
+msgstr ""
+
+#: class-sponsors-carousel.php:142
+#, php-format
+msgid "Also you can use %1$s for show this carousel."
+msgstr ""
+
+#: class-sponsors-carousel.php:146
+msgid "Speed:"
+msgstr ""
+
+#: class-sponsors-carousel.php:149
+msgid "The speed of the animation. 0 is instant, 10000 is very slow."
+msgstr ""
+
+#: class-sponsors-carousel.php:153
+msgid "Scroll Amount:"
+msgstr ""
+
+#: class-sponsors-carousel.php:156
+msgid "How many images should be scrolled in one step"
+msgstr ""
+
+#: class-sponsors-carousel.php:160
+msgid "Auto scroll:"
+msgstr ""
+
+#: class-sponsors-carousel.php:163
+msgid "Off"
+msgstr ""
+
+#: class-sponsors-carousel.php:164
+msgid "Continuous"
+msgstr ""
+
+#: class-sponsors-carousel.php:165
+msgid "Fast"
+msgstr ""
+
+#: class-sponsors-carousel.php:166
+msgid "Medium"
+msgstr ""
+
+#: class-sponsors-carousel.php:167
+msgid "Slow"
+msgstr ""
+
+#: class-sponsors-carousel.php:172
+msgid "WP image size:"
+msgstr ""
+
+#: class-sponsors-carousel.php:179
+#, php-format
+msgid "To get more image sizes you can install special plugins like <a href=\"%1$s\">this</a> or <a href=\"%2$s\">this</a>."
+msgstr ""
+
+#: class-sponsors-carousel.php:180
+msgid "Important! Images will be resized on upload, so after adding new size please upload files again or use regenerate plugin."
+msgstr ""
+
+#: class-sponsors-carousel.php:184
+msgid "Width of Image:"
+msgstr ""
+
+#: class-sponsors-carousel.php:190
+msgid "Height of Image:"
+msgstr ""
+
+#: class-sponsors-carousel.php:196
+msgid "Width of Carousel:"
+msgstr ""
+
+#: class-sponsors-carousel.php:202
+msgid "Distance between images:"
+msgstr ""
+
+#: class-sponsors-carousel.php:208
+msgid "Show titles for images:"
+msgstr ""
+
+#: class-sponsors-carousel.php:211 class-sponsors-carousel.php:220
+msgid "No"
+msgstr ""
+
+#: class-sponsors-carousel.php:212 class-sponsors-carousel.php:221
+msgid "Yes"
+msgstr ""
+
+#: class-sponsors-carousel.php:217
+msgid "Show controls:"
+msgstr ""
+
+#: class-sponsors-carousel.php:226
+msgid "Open in new window:"
+msgstr ""
+
+#: class-sponsors-carousel.php:229
+msgid "No, open in same window"
+msgstr ""
+
+#: class-sponsors-carousel.php:230
+msgid "Yes, open in new window"
+msgstr ""
+
+#: class-sponsors-carousel.php:235
+msgid "Default link:"
+msgstr ""
+
+#: class-sponsors-carousel.php:245
+msgid "Add images"
+msgstr ""
+
+#: class-sponsors-carousel.php:246
+msgid "Save Changes"
+msgstr ""
+
+#: class-sponsors-carousel.php:249
+msgid "Delete carousel"
+msgstr ""
+
+#: class-sponsors-carousel.php:249
+msgid "Are you sure?"
+msgstr ""
+
+#: class-sponsors-carousel.php:387
+msgid "Choose Images"
+msgstr ""
+
+#: class-sponsors-carousel.php:388
+msgid "Insert in Carousel"
+msgstr ""
+
+#: class-sponsors-carousel.php:389
+msgid "Custom link:"
+msgstr ""
+
+#: sponsors-carousel.php:33
+msgid "Sponsors Carousel"
+msgstr ""
+
+#: sponsors-carousel.php:79
+msgid "Settings"
+msgstr ""
+
+#: sponsors-carousel.php:103
+msgid "Options updated"
+msgstr ""
+
+#: sponsors-carousel.php:113
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: sponsors-carousel.php:129
+msgid "main"
+msgstr ""
+
+#: sponsors-carousel.php:155
+msgid "ID"
+msgstr ""
+
+#: sponsors-carousel.php:167
+msgid "Please add images on <b>Sponsors carousel</b> plugin page"
+msgstr ""
